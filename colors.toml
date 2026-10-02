@@ -1,4 +1,4 @@
-# Phobos — the Omarchy theme that ships with Doom Wallpaper.
+# Phobos — an Omarchy theme for Live Doom.
 # Rust, bone and hellfire: every hue is pulled from (or tuned toward) the classic
 # 256-colour game palette, then adjusted for terminal contrast (body text ≥ 4.5:1).
 mode = "dark"

@@ -12,9 +12,9 @@ omarchy theme install https://github.com/slogonomo/omarchy-phobos-theme
 
 or **Install > Style > Theme** in the Omarchy menu with that URL.
 
-## Live wallpaper
+## Live Background
 
-The first background, `1-live-doom`, is the **Live Doom** live wallpaper: with the
+The first background, `1-live-doom`, is the **Live Doom** live background: with the
 [Live Doom plugin](https://github.com/slogonomo/live-doom) installed, a bot plays Doom on your empty
 desktops while it's selected, and you can click in to take over. Choose any other background to
 turn it off. Without the plugin it is just a still.
@@ -23,7 +23,7 @@ turn it off. Without the plugin it is just a still.
 
 | File | What it is | Source |
 |---|---|---|
-| `1-live-doom.webp` | **Live Doom.** Turns the live wallpaper on (needs the plugin) | Freedoom 2 MAP23, graded |
+| `1-live-doom.webp` | **Live Doom.** Turns the live background on (needs the plugin) | Freedoom 2 MAP23, graded |
 | `2-phobos-moon.webp` | The moon Phobos, rim-lit in hellfire | Qwen-Image 2.1 |
 | `3-uac-teleporter.webp` | Teleporter room, rust-to-bone duotone | Freedoom 1 E2M2 |
 | `4-ember-haze.webp` | Embers drifting up out of the dark | Qwen-Image 2.1 |
