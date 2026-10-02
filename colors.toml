@@ -1,0 +1,38 @@
+# Phobos — the Omarchy theme that ships with Doom Wallpaper.
+# Rust, bone and hellfire: every hue is pulled from (or tuned toward) the classic
+# 256-colour game palette, then adjusted for terminal contrast (body text ≥ 4.5:1).
+mode = "dark"
+
+accent = "#f26a1b"
+selection = "#4a2419"
+muted = "#6f5b4d"
+
+background = "#140f0d"
+dark_background = "#0f0b0a"
+darker_background = "#0a0807"
+lighter_background = "#241a16"
+
+foreground = "#e3d3b8"
+dark_foreground = "#8f7a68"
+light_foreground = "#c8b495"
+bright_foreground = "#f6ebd7"
+
+red = "#e5452f"
+yellow = "#e8b84a"
+orange = "#f39a3c"
+green = "#72b04a"
+cyan = "#6db3a5"
+blue = "#6684d8"
+magenta = "#c45b92"
+brown = "#8a5a34"
+
+bright_red = "#ff6048"
+bright_yellow = "#ffd770"
+bright_green = "#97d76c"
+bright_cyan = "#94d7c9"
+bright_blue = "#8ea6ff"
+bright_magenta = "#ea8cc0"
+
+# Hellfire window border; inactive windows sink back into rust.
+hyprland_active_border = "rgba(ff3b1fee) rgba(ffa21aee) 45deg"
+hyprland_inactive_border = "rgba(3a2a22aa)"
