@@ -23,7 +23,7 @@ turn it off. Without the plugin it is just a still.
 
 | File | What it is | Source |
 |---|---|---|
-| `1-live-doom.webp` | **Live Doom.** Turns the live background on (needs the plugin) | Freedoom 2 MAP23, graded |
+| `1-live-doom.webp` | **Live Doom.** Marked LIVE DOOM; turns the live background on (needs the plugin) | original, procedural |
 | `2-phobos-moon.webp` | The moon Phobos, rim-lit in hellfire | Qwen-Image 2.1 |
 | `3-uac-teleporter.webp` | Teleporter room, rust-to-bone duotone | Freedoom 1 E2M2 |
 | `4-ember-haze.webp` | Embers drifting up out of the dark | Qwen-Image 2.1 |
@@ -46,7 +46,7 @@ would sort ahead of `1-live-doom`. The last two share `9-` to keep the live choi
 
 ## Licences
 
-- Everything original here is **CC0-1.0** ([LICENSE](LICENSE)): the palette and theme files, the procedural backgrounds, the four Qwen-Image 2.1 images (generated for this theme; Qwen states outputs are not part of the model's licensed Materials and belong to the person who generates them), and the previews.
-- The four Freedoom-derived backgrounds (`1-live-doom`, `3-uac-teleporter`, `5-dead-city`, `7-candlelit-hall`) were rendered from **Freedoom** and stylised. Freedoom data are Copyright © 2001–2024 Contributors to the Freedoom project, under the BSD-3-Clause licence in [LICENSE-FREEDOOM.txt](LICENSE-FREEDOOM.txt).
+- Everything original here is **CC0-1.0** ([LICENSE](LICENSE)): the palette and theme files, the procedural backgrounds (including `1-live-doom`, lettered in JetBrains Mono, OFL), the four Qwen-Image 2.1 images (generated for this theme; Qwen states outputs are not part of the model's licensed Materials and belong to the person who generates them), and the previews.
+- The three Freedoom-derived backgrounds (`3-uac-teleporter`, `5-dead-city`, `7-candlelit-hall`) were rendered from **Freedoom** and stylised. Freedoom data are Copyright © 2001–2024 Contributors to the Freedoom project, under the BSD-3-Clause licence in [LICENSE-FREEDOOM.txt](LICENSE-FREEDOOM.txt).
 - `unlock.png` is based on the Omarchy wordmark (Omarchy, MIT).
 - **No id Software assets are included.**
